@@ -17,8 +17,6 @@ footer: SGCBAM
 social:
   - title: facebook
     url: https://www.facebook.com/groups/nusbizit
-  - title: twitter
-    url: 
 
 # Build settings
 markdown: kramdown
